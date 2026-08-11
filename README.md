@@ -1,3 +1,3 @@
 # Root & Line Living
 
-Public website for https://rootandlineliving.com.
+Public website for [rootandlineliving.com](https://rootandlineliving.com).
