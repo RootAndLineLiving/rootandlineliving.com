@@ -1,6 +1,6 @@
 .quiet-feature{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(320px,.65fr);background:#e6e1d7;padding:7vw;gap:6vw;align-items:center}
 .quiet-art-crop{position:relative;aspect-ratio:1.674/1;overflow:hidden;background:#d3cec4;box-shadow:0 30px 65px #2730271f}
-.quiet-art-crop img{display:block;width:100%;height:100%;object-fit:contain}
+.quiet-art-crop img{display:block;position:static;width:100%;height:100%;max-width:100%;object-fit:contain}
 .quiet-feature h2,.design-story h2{font-family:Georgia,'Times New Roman',serif;font-weight:400;line-height:.92;letter-spacing:-.045em;margin:0}
 .quiet-feature-copy h2{font-size:clamp(48px,5.5vw,78px)}
 .quiet-feature-copy>p:not(.eyebrow){font-family:Georgia,serif;font-size:17px;line-height:1.75;color:#535b51;margin:34px 0 30px;max-width:480px}
